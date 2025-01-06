@@ -2,7 +2,7 @@
 ### Made by Keungoui Kim (Ph.D.)
 Remote repository for Computational Policy and Project Analysis
 
-<Course Schedule>
+### <Course Schedule>
 LEC 01. Introduction to CPPA
 - Lecture Overview
 - CPPA
