@@ -27,10 +27,14 @@ LEC 03. Data Struture
 - List
 
 LEC 04. Data Pre-Processing I
-- 
+- Tidy data
+- Missing value
+- Outlier
 
 LEC 05. Data Pre-Processing II
-- 
+- Exploratory data analysis
+- group_by
+- summarize
 
 LEC 06. Data Integration
 - Join
