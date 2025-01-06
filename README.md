@@ -3,23 +3,24 @@
 Remote repository for Computational Policy and Project Analysis
 
 <Course Schedule>
-1. LEC 01. Introduction to CPPA
-			1. Lecture Overview
-			2. CPPA
-			3. Required Capabilities for CPPA
-			4. Programming Language Selection
-			5. R Installation
-2. LEC 02. Programming Basics
-			1. R & Python
-			2. variable
-			3. operators
-			4. true/false
-			5. code writing
-			6. relational path vs. absolute path
-			7. R project
-			8. data load
-			9. dplyr
-		3. [ ] LEC 03. Data Struture
+LEC 01. Introduction to CPPA
+- Lecture Overview
+- CPPA
+- Required Capabilities for CPPA
+- Programming Language Selection
+- R Installation
+	
+LEC 02. Programming Basics
+- Code writing
+- Variable
+- Operators
+- Relational path vs. absolute path
+- R project
+- Data load
+- .RData
+- dplyr
+
+LEC 03. Data Struture
 			1. vector 
 			2. matrix
 			3. data.frame
