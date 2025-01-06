@@ -62,11 +62,11 @@ LEC 10. Statistical Logistic Regression
 - Logit transformation
 - Confusion matrix
 
-LEC 11. Machine-Learning Supervised Learning
+LEC 11. Supervised Machine-Learning 
 - Regression & logistic regerssion
 - Decision tree
 
-LEC 12. Machine-Learning Unsupervised Learning
+LEC 12. Unsupervised Machine-Learning 
 - k-means clustering
 - Hierarchical clustering
 
