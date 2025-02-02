@@ -13,48 +13,33 @@ LEC 03. Data Struture
 - Vector; Matrix; Data.frame; List; apply family; dplyr
 
 LEC 04. Data Pre-Processing I
-- Tidy data
-- Missing value
-- Outlier
+- Tidy data; Missing value; Outlier
 
 LEC 05. Data Pre-Processing II
-- Exploratory data analysis
-- group_by
-- summarize
+- Exploratory data analysis; group_by; summarize
 
 LEC 06. Data Integration
 - Join
  
 LEC 07. Data Visualization
-- ggplot
-- Line Plot
-- Histogram
-- Box Plot
-- Bar Plot
+- ggplot; Line Plot; Histogram; Box Plot; Bar Plot
 
 (Midterm Exam)
 
 LEC 08. Statistics Basics (Descriptive & Inferential)
-- Population and sample
-- Descriptive statistics
-- Inferential statistics
+- Population and sample; Descriptive statistics; Inferential statistics
 
 LEC 09. Statistical Linear Regression
-- Simple model regression
-- RMSE
-- R^2
+- Simple model regression; RMSE; R^2
 
 LEC 10. Statistical Logistic Regression
-- Logit transformation
-- Confusion matrix
+- Logit transformation; Confusion matrix
 
 LEC 11. Supervised Machine-Learning 
-- Regression & logistic regerssion
-- Decision tree
+- Regression & logistic regerssion; Decision tree
 
 LEC 12. Unsupervised Machine-Learning 
-- k-means clustering
-- Hierarchical clustering
+- k-means clustering; Hierarchical clustering
 
 (Team Project)
 
