@@ -19,5 +19,5 @@ Remote repository for Computational Policy and Project Analysis
 - LEC 10. Regression
 - LEC 11. Supervised Learning 
 - LEC 12. Unsupervised Learning 
-- (Team Project)
+- (Project)
 - (Final Exam)
