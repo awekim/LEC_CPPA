@@ -1,4 +1,4 @@
-<img width="510" height="81" alt="image" src="https://github.com/user-attachments/assets/08d699a9-f3c3-43a9-9a14-f8bcaa281a58" /><img width="855" height="81" alt="image" src="https://github.com/user-attachments/assets/7c6ee266-0fa8-4e4b-8246-3fba10f81ab5" /># Computational Policy and Project Analysis
+# Computational Policy and Project Analysis
 ### Made by Keungoui Kim (Ph.D.)
 Remote repository for Computational Policy and Project Analysis
 
