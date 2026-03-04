@@ -4,7 +4,7 @@ Remote repository for Computational Policy and Project Analysis
 
 - Download course materials
   (https://drive.google.com/drive/folders/1UVHVpJCDXkfzo1orpJardX0bPXIb83cV?usp=sharing)
-
+  
 #### Course Schedule
 - LEC 01. Introduction to CPPA
 - LEC 02. Programming Basics: “Thinking Like a Computer”
