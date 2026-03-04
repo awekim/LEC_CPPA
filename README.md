@@ -13,11 +13,11 @@ Remote repository for Computational Policy and Project Analysis
 - LEC 05. Data Pre-Processing I: “Exploratory Data Analysis”
 - LEC 06. Data Pre-Processing II: “Data Cleaning and Transformation”
 - LEC 07. Data Pre-Processing III: “Visualization”
-- (Midterm Exam)
+- Exploratory Data Analysis
 - LEC 08. Statistics and Machine Learning Approaches: “How to Integrate Statistics and Machine Learning for Policy Analysis”
-- LEC 09. Supervised Learning with Single Variable Model: Classification
-- LEC 10. Supervised Learning with Single Variable Model: Regression
-- LEC 11. Linear Regression: “Statistics & Machine Learning”
-- LEC 12. Logistic Regression: “Statistics & Machine Learning”
+- LEC 09. Supervised Learning Basics
+- LEC 10. Unsupervised Learning Basics
+- LEC 11. Linear Regression: “Machine Learning”
+- LEC 12. Linear Regression: “Statistics”
 - (Project)
 - (Final Exam)
